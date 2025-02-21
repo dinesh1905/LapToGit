@@ -1,0 +1,64 @@
+Id,Name,Total points,"What will be the output of the following Python code?
+  
+    print(0xA + 0xB + 0xC)
+
+
+","Suppose list1 is [1, 3, 2], What is list1 * 2?","What will be the output of the following Python code?
+
+a = 4.5
+b = 2
+print (a // b) 
+
+
+","What will be the output of the following Python code?
+
+a = True
+b = False
+c = False
+
+if a or b and c: 
+??????print (""Hello"") 
+else: 
+??????print (""Hi"") 
+
+
+","What will be the value of the following Python expression?
+
+4 + 3 % 5
+
+","What will be the output of the following Python function?
+
+min(max(False,-3,-4), 2,7)
+
+","What will be the output of the following Python code?
+
+>>>t=(1,2,4,3) 
+>>>t[1:-1]
+
+","What will be the output of the following Python code?
+
+>>> a={5,6,7} 
+>>> sum(a,5)
+
+
+",Which of the following isn’t true about dictionary keys?,"What will be the output of the following Python code?
+
+x = 10          
+y = 4
+
+z = x + y * 2  
+
+result1 = (z > 15) 
+
+result2 = result1 and (x != y) 
+
+result3 = (x | y) 
+
+str_val = ""Python""
+result4 = ("
+1,B Dinesh,10,33,"[1, 3, 2, 1, 3, 2]",2.0,Hello,7,False,"(2, 4)",23,Keys must be integers,True
+2,S M Harish,5,0xA0xB0xC,"[2, 6, 4]",error,Hello,7,False,"(2, 4)",23,Keys must be immutable,Error
+3,Devara Sai Prathyusha,7,33,"[1, 3, 2, 1, 3, 2]",2.0,Hi,7,False,"(2, 4, 3)",23,Keys must be integers,False
+4,M I M Ibrahim,9,33,"[1, 3, 2, 1, 3, 2]",2.0,Hello,7,False,"(2, 4)",23,Keys must be integers,
+5,Rishitha Kakarla,9,33,"[1, 3, 2, 1, 3, 2]",2,Hello,7,False,"(2, 4)",23,Keys must be integers,True
+6,Gowtham Gopakumar Menon,7,33,"[1, 3, 2, 1, 3, 2]",2,Hello,7,2,"(2, 4)",23,More than one key isn’t allowed,True
