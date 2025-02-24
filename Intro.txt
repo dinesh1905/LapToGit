@@ -2,4 +2,11 @@ This git is to transfer all the file from Laptop to Git
 
 Branch Names:
 
-Payslips
+main
+Main
+MyDocs
+Scam
+Photos
+Certificates
+IGNITE
+Payslips        
