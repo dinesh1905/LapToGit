@@ -1,0 +1,78 @@
+TBCBT00006816239
+Total - 144
+
+1st PP after 12 =  144-12 = 132
+Before = 132
+After = 110
+Reduced = 132-110 = 22
+Paid EMI = 9.16
+
+2nd PP after 4 = 110-4 = 106
+Before = 106
+After = 96
+Reduced = 106-96 = 10
+Paid EMI = 5.01
+
+Interest reduction after 1 = 96-1 = 95
+Interest reduced = 8.85 -> 8.60
+Before = 95
+After = 94
+Reduced = 95-94 = 1
+
+Interest reduction after 3 = 94-3 = 91
+Interest reduced = 8.60 -> 8.35
+Before = 91
+After = 90
+Reduced = 91-90 = 1
+
+3rd PP after 0 = 90-0 = 90
+Before = 90
+After = 75
+Reduced = 90-75 = 15
+Paid EMI = 8.24
+
+Interest reduction after 3 = 75-3 = 72
+Interest reduced = 8.35 -> 7.85
+Before = 72
+After = 71
+Reduced = 72-71 = 1
+_________________________________________________________________________
+
+TBCBT00006816238
+Total - 144
+
+1st PP after 12 = 144-12 = 132
+Before = 132
+After = 109
+Reduced = 132-109 = 23
+Paid EMI = 9.67
+
+2nd PP after 4 = 109-4 = 105
+Before = 105
+After = 97
+Reduced = 105-97 = 8
+Paid EMI = 4.03
+
+Interest reduction after 1 = 97-1 = 96
+Interest reduced = 8.75 -> 8.50
+Before = 96
+After = 95
+Reduced = 96-95 = 1
+
+Interest reduction after 3 = 95-3 = 92
+Interest reduced = 8.50 -> 8.25
+Before = 92 
+After = 91
+Reduced = 92-91 = 1
+
+3rd PP after 0 = 91-0 = 91
+Before = 91
+After = 81
+Reduced = 91-81 = 10
+Paid EMI = 5.64
+
+Interest reduction after 3 = 81-3 = 78
+Interest reduced = 8.25 -> 7.75
+Before = 78
+After = 76
+Reduced = 78-76 = 2
